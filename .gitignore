@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Editor backup files
+*~
+.*~
+*.swp
+*.swo
